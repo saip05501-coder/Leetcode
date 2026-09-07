@@ -9,6 +9,7 @@
 | [0620-not-boring-movies](https://github.com/saip05501-coder/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/saip05501-coder/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/saip05501-coder/Leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/saip05501-coder/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/saip05501-coder/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/saip05501-coder/Leetcode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
