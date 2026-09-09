@@ -14,4 +14,5 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/saip05501-coder/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/saip05501-coder/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/saip05501-coder/Leetcode/tree/master/1683-invalid-tweets) |
+| [1965-employees-with-missing-information](https://github.com/saip05501-coder/Leetcode/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
