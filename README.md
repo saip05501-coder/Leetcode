@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/saip05501-coder/Leetcode/tree/master/0178-rank-scores) |
 | [0577-employee-bonus](https://github.com/saip05501-coder/Leetcode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/saip05501-coder/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/saip05501-coder/Leetcode/tree/master/0610-triangle-judgement) |
